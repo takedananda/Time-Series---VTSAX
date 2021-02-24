@@ -2,7 +2,7 @@
 
 This is a project for time-series analysis of the adjusted closing price of VTSAX shares. 
 
-In this project, I first built a web scraper to collect data from Yahoo Finance website. Then, I conducted time series decomposition to analyze the data, to gain an understanding of which type of models will be best suited for the data.
+In this project, I first built a web scraper to collect data from Yahoo Finance website. Then, I conducted time series decomposition to gain an understanding of which type of models will be best suited for the data.
 
 I constructed a seasonal ARIMA model that outperformed naive forecasting methods, evaluated using mean absolute percentage error. 
 
